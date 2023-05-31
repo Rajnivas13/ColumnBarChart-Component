@@ -1,3 +1,9 @@
+Output:
+
+![image](https://github.com/Rajnivas13/ColumnBarChart-Component/assets/68956003/a5737a29-ed6d-4d80-acd8-9bb10188e6e5)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
